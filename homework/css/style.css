@@ -1,0 +1,101 @@
+
+
+<style>
+
+header {
+background-color: #333333;
+font: "Georgia", Times New Roman; Times, Serif;
+color: rgb(65, 35, 30);
+font-size: ;
+link-color: pink;
+margin: 0px;
+padding: 0px;
+float: ;
+width: full;
+}
+
+    h1 {
+    background-color: rgb(65, 35, 30);
+    font: "Georgia", Times New Roman; Times, Serif;
+    color: #eee;
+    font-size: 28px;
+    link-color: pink;
+    margin: 0px;
+    padding: 0px;
+    float: ;
+    width: ;
+    }
+
+        h2 {
+        background-color: white;
+        font: "Georgia", Times New Roman; Times, Serif;
+        color: rgb(65, 35, 30);
+        font-size: 24px;
+        link-color: pink;
+        margin: 0px;
+        padding: 0px;
+        float: ;
+        width: ;
+        }
+
+body {
+background-color: #efeee7;
+font: "Georgia", Times New Roman; Times, Serif;
+color: #333333;
+font-size: 14px;
+link-color: pink;
+margin: 0px 30px;
+padding: 0px;
+float: center;
+width: full;
+}
+
+    #contrainer {
+    background-color: white;
+    font: "Georgia", Times New Roman; Times, Serif;
+    color: #333333;
+    font-size: 14px;
+    link-color: pink;
+    margin: 0px auto;
+    padding: 0px;
+    float: ;
+    width: ;
+    }
+
+        #main-bio {
+        background-color: white;
+        font: "Georgia", Times New Roman; Times, Serif;
+        color: #333333;
+        font-size: 14px;
+        link-color: pink;
+        margin: 0px;
+        padding: 0px;
+        float: left;
+        width: 70%;
+        }
+
+#contact-info {
+background-color: white;
+font: "Georgia", Times New Roman; Times, Serif;
+color: #333333;
+font-size: 14px;
+link-color: pink;
+margin: 0px;
+padding: 0px;
+float: left;
+width: 30%;
+}
+
+    #bio-image {
+    background-color: white;
+    font: "Georgia", Times New Roman; Times, Serif;
+    color: #333333;
+    font-size: 14px;
+    link-color: pink;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    width: 200px;
+    }
+
+</style>
